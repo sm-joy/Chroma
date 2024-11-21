@@ -1,0 +1,13 @@
+Binaries/
+Intermediate/
+
+*.log
+
+*.bat
+
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
